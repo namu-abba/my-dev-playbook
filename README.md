@@ -1,2 +1,2 @@
-# study
-Summary of AI Concepts
+# my-dev-playbook
+Summary of practial code snippets
