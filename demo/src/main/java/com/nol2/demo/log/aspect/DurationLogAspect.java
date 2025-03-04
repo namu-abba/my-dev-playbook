@@ -1,4 +1,4 @@
-package com.nol2.example.demo.log.aspect;
+package com.nol2.demo.log.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

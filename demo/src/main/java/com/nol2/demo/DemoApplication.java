@@ -1,4 +1,4 @@
-package com.nol2.example.demo;
+package com.nol2.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

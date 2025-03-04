@@ -1,4 +1,4 @@
-package com.nol2.example.demo.log.aspect;
+package com.nol2.demo.log.aspect;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

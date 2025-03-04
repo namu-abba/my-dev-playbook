@@ -1,4 +1,4 @@
-package com.nol2.example.demo;
+package com.nol2.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,8 @@
-package com.nol2.example.demo.log.service;
+package com.nol2.demo.log.service;
 
 import org.springframework.stereotype.Service;
 
-import com.nol2.example.demo.log.aspect.DurationLog;
+import com.nol2.demo.log.aspect.DurationLog;
 
 @Service
 public class SampleService {

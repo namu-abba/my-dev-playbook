@@ -1,4 +1,4 @@
-package com.nol2.example.demo.log.service;
+package com.nol2.demo.log.service;
 
 import org.springframework.stereotype.Service;
 
